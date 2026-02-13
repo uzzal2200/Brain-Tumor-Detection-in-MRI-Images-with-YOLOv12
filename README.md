@@ -370,9 +370,9 @@ See the [LICENSE](LICENSE) file for more details.
 For questions, collaborations, or research inquiries:
 
 📧 **Email**: [uzzal.220605@s.pust.ac.bd](uzzal.220605@s.pust.ac.bd)  
-🔗 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/md-uzzal-mia-87a3032a1/)  
-🐙 **GitHub**: [@yourusername](https://github.com/uzzal2200)  
-🏛️ **Institution**: Your University/Institution Name
+🔗 **LinkedIn**: [https://www.linkedin.com/in/md-uzzal-mia-87a3032a1](https://www.linkedin.com/in/md-uzzal-mia-87a3032a1/)  
+🐙 **GitHub**: [https://github.com/uzzal2200](https://github.com/uzzal2200)  
+🏛️ **Institution**: Pabna University of Science and Technology
 
 </div>
 
