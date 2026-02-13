@@ -369,9 +369,9 @@ See the [LICENSE](LICENSE) file for more details.
 
 For questions, collaborations, or research inquiries:
 
-📧 **Email**: [your.email@institution.edu](mailto:your.email@institution.edu)  
-🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub**: [@yourusername](https://github.com/yourusername)  
+📧 **Email**: [uzzal.220605@s.pust.ac.bd](uzzal.220605@s.pust.ac.bd)  
+🔗 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/md-uzzal-mia-87a3032a1/)  
+🐙 **GitHub**: [@yourusername](https://github.com/uzzal2200)  
 🏛️ **Institution**: Your University/Institution Name
 
 </div>
