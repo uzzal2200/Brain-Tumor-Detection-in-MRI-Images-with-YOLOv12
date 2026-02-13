@@ -396,10 +396,14 @@ If you find this research useful for your work, please consider:
 **IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS 2025)**  
 📅 October 23-24, 2025 | 📍 Kushtia, Bangladesh
 
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Paper-blue?logo=ieee)](https://ieeexplore.ieee.org/document/11330266)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FCOMPAS67506.2025.11381885-blue)](https://doi.org/10.1109/COMPAS67506.2025.11381885)
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Access%20Paper-blue)](https://ieeexplore.ieee.org)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Md-Mia-143/research)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=YsXbn0QAAAAJ)
+<div align="center">
 
 ---
+
 
 <sub>Made with ❤️ for advancing Medical AI | © 2025 All Rights Reserved</sub>
 
